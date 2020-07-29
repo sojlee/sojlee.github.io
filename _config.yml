@@ -110,7 +110,7 @@ author:
   name             : "sojlee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "공부 기록용 블로그입니다."
-  location         : "Somewhere"
+  location         : "Seoul"
   email            : 
   links:
     - label: "Email"
